@@ -1,0 +1,27 @@
+[1mdiff --git a/Indice.txt b/Indice.txt[m
+[1mindex b41587b..13a0fb4 100644[m
+Binary files a/Indice.txt and b/Indice.txt differ
+[1mdiff --git a/capitulos/capitulo1.txt b/capitulos/capitulo1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..81e8fd4[m
+[1m--- /dev/null[m
+[1m+++ b/capitulos/capitulo1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mGit es un sistema de control de versiones ideado por Linus Torvalds[m
+\ No newline at end of file[m
+[1mdiff --git a/capitulos/capitulo2.txt b/capitulos/capitulo2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..aeb3f33[m
+[1m--- /dev/null[m
+[1m+++ b/capitulos/capitulo2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mEl flujo de trabajo básico con Git consiste en: 1- Hacer cambios en el repositorio. 2- Añadir los cambios a la zona de intercambio temporal. 3- Hacer un commit de los cambios.[m
+\ No newline at end of file[m
+[1mdiff --git a/capitulos/capitulo3.txt b/capitulos/capitulo3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..534b9a9[m
+[1m--- /dev/null[m
+[1m+++ b/capitulos/capitulo3.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mGit permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultanea en ellas.[m
+\ No newline at end of file[m
